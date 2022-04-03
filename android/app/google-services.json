@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440907497843",
+    "firebase_url": "https://naan-point.firebaseio.com",
+    "project_id": "naan-point",
+    "storage_bucket": "naan-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440907497843:android:a8ff8deea9e8fa5b0d0506",
+        "android_client_info": {
+          "package_name": "com.naanpoint.ordertakingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440907497843-dnvv88du3i1pq6o448iffh5qa6u539vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92m00Y94dxRxr2tu4LcX364szN7sXDWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440907497843-dnvv88du3i1pq6o448iffh5qa6u539vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
